@@ -10,7 +10,7 @@ sidemenu = "true"
 You can reach me via my primary email address: 
 [gbrown128@ymail.com](mailto:gbrown128@ymail.com)
 
-Alternately, my academic email address: 
+Alternatively, my academic email address: 
 [gb4g15@soton.ac.uk](mailto:gb4g15@soton.ac.uk)
 
 

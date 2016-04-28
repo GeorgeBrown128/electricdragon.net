@@ -1,10 +1,12 @@
-baseurl = "http://hugo.electricdragon.net/"
+baseurl = "http://stormfly.electricdragon.net/"
 languageCode = "en-gb"
 title = "George Brown"
 author = "George Brown"
 copyright = " &copy; 2016"
 
 theme = "blackburn"
+
+PygmentsCodeFences = true
 
 [indexes]
     tag = "tags"
