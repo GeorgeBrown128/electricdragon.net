@@ -6,14 +6,6 @@ title = "About"
 sidemenu = "true"
 +++
 
-# Contact
-You can reach me via my primary email address: 
-[gbrown128@ymail.com](mailto:gbrown128@ymail.com)
-
-Alternatively, my academic email address: 
-[gb4g15@soton.ac.uk](mailto:gb4g15@soton.ac.uk)
-
-
 # Electronic Engineer
 I'm currently an Electronic Engineering student of
 [ECS](http://www.ecs.soton.ac.uk/) at the University of Southampton.
@@ -33,6 +25,9 @@ equipment to further my hobby and university work. I am incredibly grateful
 for the support from the IET. My local newspaper covered the story, which can 
 be found 
 [here](http://www.whitbygazette.co.uk/news/local/ex-caedmon-college-whitby-student-a-real-diamond-geezer-1-7772699).
+
+{{% fluid_img class="pure-u-1-1" src="img/iet.jpg" alt="Me in the University labs." %}} 
+Testing out a microcontroller based boost converter in the University's Zepler lab.
 
 # Electronics Hobbyist
 Since I was young I've been fascinated by electronics. As a teen I steadily 

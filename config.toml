@@ -35,12 +35,11 @@ PygmentsCodeFences = true
         weight = 2
         identifier = "about"
         url = "/about/"
-# for now, contact info lives in the about page!
-#    [[menu.main]]
-#        name = "Contact"
-#        pre = "<i class='fa fa-phone fa-fw'></i>"
-#        weight = 3
-#        url = "/contact/"
+    [[menu.main]]
+        name = "Contact"
+        pre = "<i class='fa fa-envelope fa-fw'></i>"
+        weight = 3
+        url = "/contact/"
     
 [social]
     # Link your social networking accouns to the side menu
@@ -48,3 +47,4 @@ PygmentsCodeFences = true
     
     # Techie
     github = "GeorgeBrown128"
+
