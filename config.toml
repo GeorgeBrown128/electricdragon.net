@@ -2,7 +2,7 @@ baseurl = "https://stormfly.electricdragon.net/"
 languageCode = "en-gb"
 title = "George Brown"
 author = "George Brown"
-copyright = " &copy; 2016"
+copyright = "&copy; 2016"
 
 theme = "blackburn"
 
