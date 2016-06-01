@@ -29,8 +29,9 @@ recall the source of this idea. It may have been an instructable, or a Picaxe
 forum post, but I can no longer find it.
 
 ## Attempt 1
-First, venture to the garden, arrange a stack of bricks into a BBQ of IC death. Fetch a blowtorch, some dead ICs, and some pliers.
-For these trials I used 14 pin DIPs.
+First, venture to the garden, arrange a stack of bricks into a BBQ of IC 
+death. Fetch a blowtorch, some dead ICs, and some pliers. For these trials I 
+used 14 pin DIPs.
 
 My first attempt was to simply blast the device with heat while rotating it in 
 the flame with pliers. Eventually the epoxy started to crumble away. With the 
@@ -74,13 +75,16 @@ which were dead before hand. I freed a PIC16F84A, a HCF4511, and a 74HC00.
 These all yielded fairly small dies. I popped them under the microscope and 
 captured a few pictures.
 
-First, the PIC, which has a 2x3mm; die, and features sufficiently small to get diffraction colours:
+First, the PIC, which has a 2x3mm; die, and features sufficiently small to get 
+diffraction colours:
 {{% fluid_img class="pure-u-1-1" src="img/16f84a.jpg" alt="PIC1684A Die" %}}
 
-Next, the 4511, which is designed to deliver more power, so has a larger feature size. This die is 3x1.5mm;
+Next, the 4511, which is designed to deliver more power, so has a larger 
+feature size. This die is 3x1.5mm;
 {{% fluid_img class="pure-u-1-1" src="img/4511.jpg" alt="4511 Die" %}}
 
-Finally, the very simple 7400. Here you can clearly see the four distinct gates.
+Finally, the very simple 7400. Here you can clearly see the four distinct 
+gates.
 {{% fluid_img class="pure-u-1-1" src="img/7400.jpg" alt="7400 Die" %}}
 
 ## Evaluation

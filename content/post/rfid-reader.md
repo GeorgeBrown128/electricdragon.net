@@ -69,4 +69,18 @@ tuning the coil.
 From the two AAA cells, the device draws 50&nbsp;mA. Much of this is used in 
 lighting the LEDs and backlight.
 
-I will attach some photos of the finished device soon!
+## Finished Prototype
+{{% fluid_img class="pure-u-1-1" src="img/fin-bottom.jpg" alt="Bottom of the finished board." %}}
+
+{{% fluid_img class="pure-u-1-1" src="img/fin-top.jpg" alt="Top of the finished board." %}}
+I was particularly pleased by the way the silk screen photographs came out. 
+"Il Rotto" fits with the university's naming scheme for it's boards. "Rotto" 
+means "broken", since we didn't have a great deal of faith it was going to 
+work first time!
+
+{{% fluid_img class="pure-u-1-1" src="img/fin-top-case.jpg" alt="The top of the case." %}}
+The frosting covers over the screen slightly, but the text is still perfectly 
+legible, which is fortunate!
+
+{{% fluid_img class="pure-u-1-1" src="img/fin-scan.jpg" alt="Scanning a tag." %}}
+The board quickly identifies tags when presented.
