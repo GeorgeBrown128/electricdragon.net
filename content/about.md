@@ -26,7 +26,7 @@ for the support from the IET. My local newspaper covered the story, which can
 be found 
 [here](http://www.whitbygazette.co.uk/news/local/ex-caedmon-college-whitby-student-a-real-diamond-geezer-1-7772699).
 
-{{% fluid_img class="pure-u-1-1" src="img/iet.jpg" alt="Me in the University labs." %}} 
+{{% fluid_img class="pure-u-1-1" src="img/iet-800.jpg" alt="Me in the University labs." %}} 
 Testing out a microcontroller based boost converter in the University's Zepler lab.
 
 # Electronics Hobbyist
