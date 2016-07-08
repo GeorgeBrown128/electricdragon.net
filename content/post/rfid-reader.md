@@ -14,9 +14,9 @@ communications system lectures, and also gain practical experience in PCB
 design. This project was done in partnership with [Harry 
 Beadle](http://harrybeadle.co.uk/).
 
-The board is designed to operate with 125kHz tags. These have been superseeded 
+The board is designed to operate with 125kHz tags. These have been superseded 
 by 13&nbsp;MHz ISM tags for most modern applications. 125kHz is still the 
-standard for animal chiping though. (I haven't found a test subject to confim 
+standard for animal chipping though. (I haven't found a test subject to confirm 
 this yet!)
 
 The project started out with an introduction to circuit simulation. An 
@@ -27,18 +27,18 @@ and a demodulator spring to life from individual blocks.
 ## CAD Design
 Next Eagle was used, and footprints were created for an LCD display and a 
 buzzer. The LCD footprint was certainly a challenge, as the datasheet was 
-fairly tricky to read. Fortunatley it worked out ok.
+fairly tricky to read. Fortunately it worked out ok.
 
 The schematic was captured in eagle from a partially provided design. Changes 
 where then made to add test points, and add a few extra features, like 
 optional grounded mounting holes.
 
 The PCB was then placed and layed out. The board outline and and hole spacing 
-was provided to fit an enclosure. Unfortunatley, we weren't shown the 
-enclosure, so our display ended up just at the boundry of the frosted part of 
+was provided to fit an enclosure. Unfortunately, we weren't shown the 
+enclosure, so our display ended up just at the boundary of the frosted part of 
 the case.
 
-To personalise the board, Harry processed some photograps in Photoshop to 
+To personalise the board, Harry processed some photographs in Photoshop to 
 generate black and white graphics, and large enough features to render 
 properly in silkscreen. The resulting bitmaps are imported into the TopSilk 
 layer in Eagle with a ULP that is shipped with the program. I was particularly 
@@ -51,12 +51,12 @@ This was the finished layout that went for manufacture:
 The circuit mount assembly was done by hand in the space of about 3 hours. For 
 my first major SMD board I was very pleased with how the soldering came out!
 
-The assembly proved to get much easier in this time. Just a small amout of 
+The assembly proved to get much easier in this time. Just a small amount of 
 experience makes a big difference to the ease of SMD soldering. I know now 
 that assembling the circuit should probably be done from the inside of the 
 board. I found it was sometimes tricky to get the iron into devices that were 
 surrounded by other components. Next time I'd also make an effort to set out a 
-sheet of labeled components. I found a fair amount of time was checking 
+sheet of labelled components. I found a fair amount of time was checking 
 component values before fitting them to the board.
 
 ## Testing and Evaluation

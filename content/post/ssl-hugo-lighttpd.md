@@ -15,11 +15,11 @@ very easy to do!
 
 ## 1 Server Software
 
-I'm using a small VPS to host my site. It runs ubutntu server, which is a nice
-platform to run on, though just about any flavour of linux should work fine.
+I'm using a small VPS to host my site. It runs Ubuntu server, which is a nice
+platform to run on, though just about any flavour of Linux should work fine.
 
 The first thing to install is Hugo. Hugo is currently distributed as an 
-exectuable you can just drop onto your machine. 
+executable you can just drop onto your machine. 
 
 You'll also want some software to serve up webpages. Hugo is able to act as a 
 webserver if you want, however it can't do anything terribly advanced. I've 
@@ -27,7 +27,7 @@ opted for Lighttpd, since it is easy to configure, and as its name suggests,
 is light on my limited VPS resource.
 
 Finally you'll need to install letsencrypt. This is a free automated SSL 
-certificate tool. It seems the mecahnism is to place some files on your 
+certificate tool. It seems the mechanism is to place some files on your 
 website, ask the authentication server to check their presence, and then if it 
 finds the right files, you're rewarded a letsencrypt certificate. As far as I 
 can tell, the letsencrypt certs are just as trusted as anybody else's. Let's 
