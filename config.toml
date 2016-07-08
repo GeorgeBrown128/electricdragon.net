@@ -11,7 +11,7 @@ PygmentsCodeFences = true
 [indexes]
     tag = "tags"
     topic = "topics"
-    
+
 [params]
     subtitle = "Electronic Engineer, Hobbyist, Radio Amateur"
 
@@ -40,11 +40,11 @@ PygmentsCodeFences = true
         pre = "<i class='fa fa-envelope fa-fw'></i>"
         weight = 3
         url = "/contact/"
-    
+
 [social]
     # Link your social networking accouns to the side menu
     # by entering your username or ID.
-    
+
     # Techie
     github = "GeorgeBrown128"
 
