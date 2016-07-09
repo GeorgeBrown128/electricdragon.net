@@ -45,6 +45,9 @@ PygmentsCodeFences = true
     # Link your social networking accouns to the side menu
     # by entering your username or ID.
 
+    # Social
+    twitter = "GeorgeB128"
+
     # Techie
     github = "GeorgeBrown128"
 
