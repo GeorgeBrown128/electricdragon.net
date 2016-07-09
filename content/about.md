@@ -17,13 +17,15 @@ Technology](http://www.eatechnology.com/). During this time I was able to hone
 the skills I'd developed as a hobbyist, and learn a great deal more about my
 industry.
 
+{{% fluid_img class="pure-u-1-1" src="img/iet-diamond-trim.jpg" alt="Me in the University labs." %}}
+
 The [IET](http://www.theiet.org/) has acknowledged my progress so far by
 awarding me with a [Diamond Jubilee Scholarship]
 (http://conferences.theiet.org/achievement/scholarships/diamond/index.cfm?origin=/diamond).
-This award has already proved it's value to me by enabling me to acquire test
-equipment to further my hobby and university work. I am incredibly grateful
-for the support from the IET. My local newspaper covered the story, which can
-be found
+This award has already proved it's value to me by enabling me to acquire both
+a new laptop, and test equipment. I can use these to further my hobby and
+university work. I am incredibly grateful for the support from the IET. My
+local newspaper covered the story, which can be found
 [here](http://www.whitbygazette.co.uk/news/local/ex-caedmon-college-whitby-student-a-real-diamond-geezer-1-7772699).
 
 {{% fluid_img class="pure-u-1-1" src="img/iet-800.jpg" alt="Me in the University labs." %}}
