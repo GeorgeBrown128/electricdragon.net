@@ -5,6 +5,7 @@ draft = false
 tags = ["antenna"]
 title = "2m Tape Measure Yagi Antenna"
 topics = ["radio"]
+mathjax = true
 +++
 
 Through the first half of 2016, British astronaut Tim Peake was aboard the
