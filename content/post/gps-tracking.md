@@ -16,9 +16,10 @@ at some part of the country disrupted by [Smart
 Motorway](https://en.wikipedia.org/wiki/Smart_motorway#Under construction)
 upgrades, horrible peak time traffic, or something else entirely!
 
-I'm normally [well](www.theamphour.com) [equipped](www.hellointernet.fm/) to
-deal with such hold ups, however without the ability to contact people while
-on the road, I can't let them know where I am.
+I'm normally [well](http://www.theamphour.com)
+[equipped](http:/www.hellointernet.fm/) to deal with such hold ups, however
+without the ability to contact people while on the road, I can't let them know
+where I am.
 
 The idea then is fairly simple - provide my current location on a map, so
 people can see where I am in my journey. There are of course a multitude of
