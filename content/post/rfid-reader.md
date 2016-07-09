@@ -7,7 +7,6 @@ title = "125kHz RFID Tag Reader"
 topics = ["electronics", "university project"]
 +++
 
-## The Project
 As part of my course's labs, we had to design a RFID reader board. This
 project served two purposes; it let us use the skills learned in our
 communications system lectures, and also gain practical experience in PCB
@@ -24,7 +23,7 @@ analogue filter and demodulator was designed in NI's MultiSim. It was very
 satisfying to see the behaviour we'd been shown mathematically come to life,
 and a demodulator spring to life from individual blocks.
 
-## CAD Design
+# CAD Design
 Next Eagle was used, and footprints were created for an LCD display and a
 buzzer. The LCD footprint was certainly a challenge, as the datasheet was
 fairly tricky to read. Fortunately it worked out ok.
@@ -47,7 +46,7 @@ satisfied by how these came out on the finished board.
 This was the finished layout that went for manufacture:
 {{% fluid_img class="pure-u-1-1" src="img/both.png" alt="Top and Bottom of the Layout" %}}
 
-## Assembly
+# Assembly
 The circuit mount assembly was done by hand in the space of about 3 hours. For
 my first major SMD board I was very pleased with how the soldering came out!
 
@@ -59,7 +58,7 @@ surrounded by other components. Next time I'd also make an effort to set out a
 sheet of labelled components. I found a fair amount of time was checking
 component values before fitting them to the board.
 
-## Testing and Evaluation
+# Testing and Evaluation
 Somewhat amazingly, once programmed, the board worked perfectly first try! The
 antenna is not ideal, and we didn't have sufficient time during the lab to
 tune the coil properly. As a result, the tag is only read when within about
@@ -69,7 +68,7 @@ tuning the coil.
 From the two AAA cells, the device draws 50&nbsp;mA. Much of this is used in
 lighting the LEDs and backlight.
 
-## Finished Prototype
+# Finished Prototype
 {{% fluid_img class="pure-u-1-1" src="img/fin-bottom-800.jpg" alt="Bottom of the finished board." %}}
 
 {{% fluid_img class="pure-u-1-1" src="img/fin-top-800.jpg" alt="Top of the finished board." %}}

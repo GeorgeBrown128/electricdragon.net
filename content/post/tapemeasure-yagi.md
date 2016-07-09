@@ -7,8 +7,6 @@ title = "2m Tape Measure Yagi Antenna"
 topics = ["radio"]
 +++
 
-# Introduction
-
 Through the first half of 2016, British astronaut Tim Peake was aboard the
 ISS. During this time he carried out [a number of 2m FM voice contacts with
 schools.](https://principia.ariss.org/schools/).

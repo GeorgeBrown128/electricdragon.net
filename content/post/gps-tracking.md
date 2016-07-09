@@ -8,8 +8,6 @@ topics = ["electronics"]
 
 +++
 
-# Introduction
-
 I frequently cover large distances by car, be it visiting friends or moving to
 work or university. At the moment it seems I can't go very far without arriving
 at some part of the country disrupted by [Smart
