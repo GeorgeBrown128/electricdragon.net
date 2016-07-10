@@ -63,10 +63,10 @@ thing.
 Next I heated the device about 3 times with 5 second bursts. (Cooking times
 vary by device size, I'm using 14 pin DIPs.)
 
-The plastic will turn white in places, and will feel brittle. <font
-color="red">(Let it cool before you touch it!)</font> At this point I whack
-the case with the pliers until most of the plastic comes away. Be careful not
-to ping the die off across the garden!
+The plastic will turn white in places, and will feel brittle. <span
+style="color: #ff0000">(Let it cool before you touch it!)</span> At this
+point I whack the case with the pliers until most of the plastic comes away.
+Be careful not to ping the die off across the garden!
 
 ## Results
 
