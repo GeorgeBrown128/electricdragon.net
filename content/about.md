@@ -44,5 +44,4 @@ had my full UK radio licence. I'm rarely on the air myself, but I try and get
 involved when time allows. Recently I've been doing a lot of reception work,
 specifically with weather satellites. I hope to document this soon!
 
-You'll find me on the air as M6WTB and 2E0WTB. I haven't decided on a M0 call
-yet! Unfortunately M0WTB is taken.
+You'll find me on the air as M6WTB, 2E0WTB, and M0APT.
