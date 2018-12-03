@@ -3,4 +3,4 @@
 	url = https://github.com/yoshiharuyamashita/blackburn.git
 [submodule "output"]
 	path = output
-	url = git@github.com:GeorgeBrown128/GeorgeBrown128.github.io
+	url = git@github.com:gbrown128/gbrown128.github.io
