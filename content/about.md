@@ -1,5 +1,5 @@
 +++
-date = "2016-04-28T16:09:45+01:00"
+date = "2020-12-06T22:45:45+00:00"
 #description = ""
 draft = false
 title = "About"
@@ -7,11 +7,12 @@ sidemenu = "true"
 +++
 
 # Electronic Engineer
-I'm currently an Electronic Engineering student of
-[ECS](http://www.ecs.soton.ac.uk/) at the University of Southampton.
-I am pursuing a MEng degree, and I'm in my fourth year.
+I'm currently an Electronic Engineer at [X2X's](https://x2x.media/) Special Projects team, developing the next generation of Codex brand storage products for the film industry.
 
-I have also had he opportunity to gain industrial experience thanks to a [Year
+I graduated with a MEng in Electronic Engineering from
+[ECS](http://www.ecs.soton.ac.uk/) at the University of Southampton.
+
+I have also had the opportunity to gain industrial experience thanks to a [Year
 in Industry](http://www.etrust.org.uk/the-year-in-industry) at [EA
 Technology](http://www.eatechnology.com/). During this time I was able to hone
 the skills I'd developed as a hobbyist, and learn a great deal more about my
@@ -19,13 +20,12 @@ industry.
 
 {{% fluid_img class="pure-u-1-1" src="img/iet-diamond-trim.jpg" alt="Diamond Jubilee Scholarship Logo" %}}
 
-The [IET](http://www.theiet.org/) has acknowledged my progress so far by
+The [IET](http://www.theiet.org/) acknowledged my progress by
 awarding me with a [Diamond Jubilee Scholarship]
 (http://conferences.theiet.org/achievement/scholarships/diamond/index.cfm?origin=/diamond).
-This award has already proved it's value to me by enabling me to acquire both
-a new laptop, and test equipment. I can use these to further my hobby and
-university work. I am incredibly grateful for the support from the IET. My
-local newspaper covered the story, which can be found
+This award enabled me to buy a new laptop and test equipment while at University. This was
+very helpful, and helped enrich my learning during my course. 
+I am incredibly grateful for the support from the IET. My local newspaper covered the story, which can be found
 [here](http://www.whitbygazette.co.uk/news/local/ex-caedmon-college-whitby-student-a-real-diamond-geezer-1-7772699).
 
 {{% fluid_img class="pure-u-1-1" src="img/iet-800.jpg" alt="Me in the University labs." %}}
